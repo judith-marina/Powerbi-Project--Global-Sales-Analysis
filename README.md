@@ -44,7 +44,7 @@ The dataset used for this analysis is provided in the file `Big_Shop_Sales.xlsx`
 - Margins remained relatively steady across all quarters, suggesting consistent profitability.
 
 
-## Tools and Technologies
+## Tools 
 - **Power BI**: For data visualization and dashboard creation.
 - **DataSquirrel.ai**: (https://datasquirrel.ai/) For initial data cleaning and preprocessing.
 
