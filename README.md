@@ -1,8 +1,6 @@
 # Powerbi-Project--Global-Sales-Analysis
 
-## Global Furniture Sales Dashboard (2021-2022)
-
-Project Title: Global Furniture Sales Analysis (2021-2022)
+## Global Furniture Sales Analysis Dashboard (2021-2022)
 
 ## Description:
 This project involves the creation of an interactive Power BI dashboard to analyze sales performance in the global furniture market during 2021-2022. The dashboard provides insights into sales trends, regional performance, and individual salesperson contributions. It enables stakeholders to make data-driven decisions for better business outcomes.
